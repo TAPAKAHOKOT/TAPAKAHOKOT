@@ -1,8 +1,12 @@
 [![Ivan's GitHub Banner](imgs/back.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
 
+Contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-0088cc)](https://t.me/TAPAKAHOKOT) [![Vk Badge](https://img.shields.io/badge/Vk-Profile-4376A6)](https://vk.com/kpabakot)
+
 ### Hi there 👋
 
-Contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-0088cc)](https://t.me/TAPAKAHOKOT) [![Vk Badge](https://img.shields.io/badge/Vk-Profile-4376A6)](https://vk.com/kpabakot)
+I'm Ivan, a junior Java developer, I love to create and develop my personal projects, I can spend dozens of hours on it
+
+Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
 <!--
 **TAPAKAHOKOT/TAPAKAHOKOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
