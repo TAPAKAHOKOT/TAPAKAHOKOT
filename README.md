@@ -39,9 +39,6 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 
-<p>{office_quote}</p>
-<p>{office_character}</p>
-Check back at the top of the hour for a new quote!
 
 <!--
 **TAPAKAHOKOT/TAPAKAHOKOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
