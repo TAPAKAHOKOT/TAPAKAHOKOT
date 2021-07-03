@@ -1,4 +1,4 @@
-[![Ivan's GitHub Banner](imgs/HOME BREW.png.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
+[![Ivan's GitHub Banner](imgs/HOME BREW.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
 
 ### Hi there 👋
 
