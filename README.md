@@ -8,7 +8,7 @@ I'm Ivan, a junior Java developer, I love to create and develop my personal proj
 
 Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
-### 📌 Pinned Repositories
+## 📌 Pinned Repositories
 <!-- Pinned Repositories -->
 <a href="https://github.com/TAPAKAHOKOT/ReportBot">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=ReportBot&title_color=fffffd&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"/>
@@ -25,7 +25,7 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 </a>
 <br>
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 <!-- GitHub Stats -->
 <br>
 <a href="https://github.com/TAPAKAHOKOT">
@@ -35,7 +35,7 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tapakahokot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ivan's GitHub Stats" />
 </a>
 
-### 💼 Skills
+## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 <!--
