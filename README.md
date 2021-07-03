@@ -1,4 +1,8 @@
+[![Ivan's GitHub Banner](imgs/HOME BREW.png.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
+
 ### Hi there 👋
+
+Contact me: [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-0088cc)](https://t.me/TAPAKAHOKOT) [![Vk Badge](https://img.shields.io/badge/Vk-Profile-4376A6)](https://vk.com/kpabakot)
 
 <!--
 **TAPAKAHOKOT/TAPAKAHOKOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
