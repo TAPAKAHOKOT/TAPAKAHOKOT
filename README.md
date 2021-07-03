@@ -37,7 +37,7 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
 ### 💼 Skills
 
-[](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197) [](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=angular&logoColor=white&color=4AB197) [](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=angular&logoColor=white&color=4AB197) [](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=angular&logoColor=white&color=4AB197) [](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=angular&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=angular&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=angular&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 <!--
 **TAPAKAHOKOT/TAPAKAHOKOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
