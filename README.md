@@ -27,7 +27,6 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
 ## 📈 GitHub Stats
 <!-- GitHub Stats -->
-<br>
 <a href="https://github.com/TAPAKAHOKOT">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapakahokot&hide=html,css,Tcl&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
