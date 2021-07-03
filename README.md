@@ -14,14 +14,14 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=ReportBot&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
 <a href="https://github.com/TAPAKAHOKOT/Flowers">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=Flowers&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=Flowers&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
 <br>
 <a href="https://github.com/TAPAKAHOKOT/BattleCity1980">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=BattleCity1980&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=BattleCity1980&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
 <a href="https://github.com/TAPAKAHOKOT/NetSet2020">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=NetSet2020&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=NetSet2020&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
 <br>
 
@@ -29,10 +29,10 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 <!-- GitHub Stats -->
 <br>
 <a href="https://github.com/TAPAKAHOKOT">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapakahokot&hide=html,css,Tcl&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapakahokot&hide=html,css,Tcl&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
 <a href="https://github.com/TAPAKAHOKOT/NetSet2020">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tapakahokot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" alt="Ivan's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tapakahokot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" alt="Ivan's GitHub Stats" />
 </a>
 
 ## 💼 Skills
