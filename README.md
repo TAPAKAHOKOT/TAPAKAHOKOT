@@ -35,6 +35,9 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tapakahokot&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ivan's GitHub Stats" />
 </a>
 
+### 💼 Skills
+
+[](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=angular&logoColor=white&color=4AB197) [](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=angular&logoColor=white&color=4AB197) [](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=angular&logoColor=white&color=4AB197) [](https://img.shields.io/badge/Code-Visual C++-informational?style=flat&logo=angular&logoColor=white&color=4AB197) [](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=angular&logoColor=white&color=4AB197) [](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
 <!--
 **TAPAKAHOKOT/TAPAKAHOKOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
