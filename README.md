@@ -38,9 +38,6 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
 
-[![Ivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tapakahokot&hide_border=true&text_color=ffffff&bg_color=070601)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
-
-
 
 <!--
 **TAPAKAHOKOT/TAPAKAHOKOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
