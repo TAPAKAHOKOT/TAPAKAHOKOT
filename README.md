@@ -11,17 +11,17 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 ## 📌 Pinned Repositories
 <!-- Pinned Repositories -->
 <a href="https://github.com/TAPAKAHOKOT/ReportBot">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=ReportBot&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=000000"/>
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=ReportBot&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
 </a>
 <a href="https://github.com/TAPAKAHOKOT/Flowers">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=Flowers&title_color=fffffd&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=Flowers&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
 </a>
 <br>
 <a href="https://github.com/TAPAKAHOKOT/BattleCity1980">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=BattleCity1980&title_color=fffffd&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=BattleCity1980&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
 </a>
 <a href="https://github.com/TAPAKAHOKOT/NetSet2020">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=NetSet2020&title_color=fffffd&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=NetSet2020&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=000000" />
 </a>
 <br>
 
