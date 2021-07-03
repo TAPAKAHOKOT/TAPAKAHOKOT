@@ -1,4 +1,4 @@
-[![Ivan's GitHub Banner](back.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
+[![Ivan's GitHub Banner](imgs/back.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
 
 ### Hi there 👋
 
