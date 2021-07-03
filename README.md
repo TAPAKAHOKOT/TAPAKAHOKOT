@@ -11,7 +11,7 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 ## 📌 Pinned Repositories
 <!-- Pinned Repositories -->
 <a href="https://github.com/TAPAKAHOKOT/ReportBot">
-  <img align="center" style="margin:0rem 0.0rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=ReportBot&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=ReportBot&hide_border=true&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
 <a href="https://github.com/TAPAKAHOKOT/Flowers">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=Flowers&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
