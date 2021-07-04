@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm Ivan, a junior Java developer, I love to create and develop my personal projects, I spend all my free time on them
+I'm Ivan, a junior Java developer, I really love to create and develop my personal projects, my favorites you can see below 👇
 
 Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
