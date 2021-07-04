@@ -36,7 +36,7 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
 ## 💼 Skills
 
-![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197) ![Java Badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197) ![PostgreSQL Badge](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197) ![Git Badge](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=#F05032&color=4AB197)
+![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197) ![Java Badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197) ![PostgreSQL Badge](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197) ![Git Badge](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197) ![Aseprite Badge](https://img.shields.io/badge/Drawing-Git-informational?style=flat&logo=aseprite&logoColor=white&color=4AB197) 
 
 
 <!--
