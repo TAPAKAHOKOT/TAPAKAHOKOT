@@ -1,6 +1,6 @@
 [![Ivan's GitHub Banner](imgs/back.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
 
-[![Visits Badge](https://badges.pufler.dev/visits/tapakahokot/tapakahokot)](https://tapakahokot.ru/) [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-0088cc)](https://t.me/TAPAKAHOKOT) [![Vk Badge](https://img.shields.io/badge/Vk-Profile-4376A6)](https://vk.com/kpabakot)
+[![Visits Badge](https://badges.pufler.dev/visits/tapakahokot/tapakahokot)](https://tapakahokot.ru/) [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-0088cc)](https://t.me/TAPAKAHOKOT) [![Vk Badge](https://img.shields.io/badge/Vk-Profile-4376A6)](https://vk.com/kpabakot) [![Site Badge](https://img.shields.io/badge/My%20site-Portfolio-18d100)](https://tapakahokot.ru/) 
 
 ### Hi there 👋
 
