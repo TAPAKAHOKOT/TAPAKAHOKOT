@@ -9,7 +9,7 @@ I'm Ivan, a junior Java developer, I really love to create and develop my person
 Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
 ## 📝 Latest articles
-1. <a href="https://tproger.ru/articles/lichnyj-opyt-kak-prokachat-navyki-programmirovanija-rabotaja-nad-pet-proektom/">Личный опыт: как прокачать навыки программирования, работая над pet-проектом</a>
+* <a href="https://tproger.ru/articles/lichnyj-opyt-kak-prokachat-navyki-programmirovanija-rabotaja-nad-pet-proektom/">Личный опыт: как прокачать навыки программирования, работая над pet-проектом</a>
 
 ## 📌 Pinned Repositories
 <!-- Pinned Repositories -->
