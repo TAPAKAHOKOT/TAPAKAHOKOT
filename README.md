@@ -37,6 +37,11 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tapakahokot&show_icons=true&line_height=27&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" alt="Ivan's GitHub Stats" />
 </a>
 
+## ✅ Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 ## 💼 Skills
 
 ![Laravel Badge](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=0088cc) ![PHP Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0088cc) ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0088cc) ![NumPy Badge](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=0088cc) ![Java Badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0088cc) ![MySQL Badge](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0088cc) ![PostgreSQL Badge](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0088cc) ![Git Badge](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=0088cc) ![Aseprite Badge](https://img.shields.io/badge/Drawing-Aseprite-informational?style=flat&logo=aseprite&logoColor=white&color=0088cc) ![Raspberry Badge](https://img.shields.io/badge/%20-Raspberry%20Pi-informational?style=flat&logo=raspberrypi&logoColor=white&color=0088cc)
