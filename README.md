@@ -37,7 +37,7 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tapakahokot&show_icons=true&line_height=27&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" alt="Ivan's GitHub Stats" />
 </a>
 
-## ✅ Todoist Stats
+## 📊 Todoist Stats
 
 <!-- TODO-IST:START -->
 🏆  8,269 Karma Points           
