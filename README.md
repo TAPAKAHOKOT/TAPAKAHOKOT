@@ -40,10 +40,10 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 ## 📊 Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  8,356 Karma Points           
-🌸  Completed 4 tasks today           
-🗓  Completed 14 tasks this week           
-✅  Completed 695 tasks so far           
+🏆  8,369 Karma Points           
+🌸  Completed 7 tasks today           
+🗓  Completed 17 tasks this week           
+✅  Completed 698 tasks so far           
 ⏳  Longest streak is 33 days
 <!-- TODO-IST:END -->
 
