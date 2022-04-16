@@ -41,7 +41,7 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 
 <!-- TODO-IST:START -->
 🏆  9,086 Karma Points           
-🌸  Completed 1 tasks today           
+🌸  Completed 0 tasks today           
 🗓  Completed 27 tasks this week           
 ✅  Completed 784 tasks so far           
 ⏳  Longest streak is 33 days
