@@ -33,6 +33,9 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 <a href="https://github.com/TAPAKAHOKOT">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapakahokot&hide=html,css,Tcl&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
+<a href="https://github.com/TAPAKAHOKOT">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapakahokot&hide=html,css,Tcl&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" alt="Ivan's GitHub Stats" />
+</a>
 
 
 ## 💼 Skills
