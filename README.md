@@ -1,6 +1,7 @@
 [![Ivan's GitHub Banner](imgs/back.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
 
-[![Visits Badge](https://badges.pufler.dev/visits/tapakahokot/tapakahokot)](https://tapakahokot.ru/) [![Telegram Badge](https://img.shields.io/badge/%20-Tg-0088cc?logo=telegram)](https://t.me/TAPAKAHOKOT) [![Vk Badge](https://img.shields.io/badge/%20-Vk-ffffff?logo=vk&logoColor=0088cc)](https://vk.com/kpabakot) [![Site Badge](https://img.shields.io/badge/My%20site-Portfolio-070601)](https://tapakahokot.ru/)  [![Tg channel Badge](https://img.shields.io/badge/%20-Telegram%20channel-0088cc?logo=telegram)](https://t.me/+309l1-n27BgxZmNi)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/tapakahokot/tapakahokot)](https://tapakahokot.ru/)  -->
+[![Telegram Badge](https://img.shields.io/badge/%20-Tg-0088cc?logo=telegram)](https://t.me/TAPAKAHOKOT) [![Vk Badge](https://img.shields.io/badge/%20-Vk-ffffff?logo=vk&logoColor=0088cc)](https://vk.com/kpabakot) [![Site Badge](https://img.shields.io/badge/My%20site-Portfolio-070601)](https://tapakahokot.ru/)  [![Tg channel Badge](https://img.shields.io/badge/%20-Telegram%20channel-0088cc?logo=telegram)](https://t.me/+309l1-n27BgxZmNi)
 
 ### Hi there 👋
 
