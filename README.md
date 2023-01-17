@@ -20,10 +20,6 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
 <a href="https://github.com/TAPAKAHOKOT/TgRomanticBot">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=TgRomanticBot&hide_border=true&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
-<br>
-<a href="https://github.com/TAPAKAHOKOT/TapakahokotVpnBot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=TapakahokotVpnBot&hide_border=true&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
-</a>
 <a href="https://github.com/TAPAKAHOKOT/BattleCity1980">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=BattleCity1980&hide_border=true&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
