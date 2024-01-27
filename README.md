@@ -15,6 +15,10 @@ I'm Ivan, a Python developer, I really love to create and develop my personal pr
 -->
 
 ## 📽 About my projects
+<a href="https://github.com/TAPAKAHOKOT/TgBotTemplate">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=TgBotTemplate&hide_border=true&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
+</a>
+
 <!-- Pinned Repositories -->
 <!--
 <a href="https://github.com/TAPAKAHOKOT/TgBotTemplate">
