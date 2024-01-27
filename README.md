@@ -17,7 +17,7 @@ I'm Ivan, a Python developer, I really love to create and develop my personal pr
 ## 📽 About my projects
 [Recycop](http://recycop.ru)
 ```text
-A new project to improve the logistics of recycling collection.
+A new (in develop) project to improve the logistics of recycling collection.
 It uses django (for back) + vue3 (for front)
 ```
 
