@@ -1,4 +1,4 @@
-[![Ivan's GitHub Banner](imgs/back.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT)
+<!-- [![Ivan's GitHub Banner](imgs/back.png)](https://github.com/TAPAKAHOKOT/TAPAKAHOKOT) -->
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/tapakahokot/tapakahokot)](https://tapakahokot.ru/)  -->
 [![Telegram Badge](https://img.shields.io/badge/%20-Tg-0088cc?logo=telegram)](https://t.me/TAPAKAHOKOT) [![Vk Badge](https://img.shields.io/badge/%20-Vk-ffffff?logo=vk&logoColor=0088cc)](https://vk.com/kpabakot)
