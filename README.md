@@ -5,15 +5,16 @@
 
 ### Hi there 👋
 
-I'm Ivan, a PHP developer, I really love to create and develop my personal projects, my favorites you can see below 👇
+I'm Ivan, a Python developer, I really love to create and develop my personal projects, my favorites you can see below 👇
 
-Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
+<!--Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/). -->
 
 ## 📝 Latest articles
 * <a href="https://tproger.ru/articles/lichnyj-opyt-kak-prokachat-navyki-programmirovanija-rabotaja-nad-pet-proektom/">Личный опыт: как прокачать навыки программирования, работая над pet-проектом</a>
 
 ## 📌 Pinned Repositories
 <!-- Pinned Repositories -->
+<!--
 <a href="https://github.com/TAPAKAHOKOT/TgBotTemplate">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=TgBotTemplate&hide_border=true&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
@@ -24,6 +25,7 @@ Want to know more about me? [Check out my portfolio](https://tapakahokot.ru/).
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=tapakahokot&repo=BattleCity1980&hide_border=true&title_color=fffffd&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
 </a>
 <br>
+-->
 
 ## 📈 GitHub Stats
 <!-- GitHub Stats -->
