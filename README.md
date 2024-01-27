@@ -15,7 +15,10 @@ I'm Ivan, a Python developer, I really love to create and develop my personal pr
 -->
 
 ## 📽 About my projects
-![Card](https://github-cards.onrender.com/any_card_name)
+```text
+code();
+address@domain.example
+```
 
 <!-- Pinned Repositories -->
 <!--
