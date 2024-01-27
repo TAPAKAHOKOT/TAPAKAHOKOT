@@ -39,7 +39,7 @@ I'm Ivan, a Python developer, I really love to create and develop my personal pr
 
 ## 💼 Skills
 
-![Laravel Badge](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=0088cc) ![Django Badge](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=java&logoColor=white&color=0088cc) ![PHP Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0088cc) ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0088cc) ![Java Badge](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0088cc) ![MySQL Badge](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=0088cc) ![PostgreSQL Badge](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0088cc) ![Git Badge](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=0088cc)
+![Django Badge](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=java&logoColor=white&color=0088cc) ![Laravel Badge](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=0088cc) ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0088cc) ![PHP Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0088cc) ![Java Badge]
 
 
 <!--
