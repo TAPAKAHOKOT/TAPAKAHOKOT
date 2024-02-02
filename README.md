@@ -14,7 +14,7 @@ I'm Ivan, a Python developer, I really love to create and develop my personal pr
 * <a href="https://tproger.ru/articles/lichnyj-opyt-kak-prokachat-navyki-programmirovanija-rabotaja-nad-pet-proektom/">Личный опыт: как прокачать навыки программирования, работая над pet-проектом</a>
 -->
 
-## 📽 About my projects
+## 📽 About my favorite projects
 [Recycop](http://recycop.ru)
 ```
 A new (in develop) project to improve the logistics of recycling collection.
