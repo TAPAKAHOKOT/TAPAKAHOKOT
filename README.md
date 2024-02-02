@@ -66,7 +66,7 @@ It has 379 commits+ but the project is private, you can check bot only :(
 
 ![Python Badge](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=3776AB&color=161B22)
 ![JS Badge](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=161B22)
-![TS Badge](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=typescript&logoColor=3178C6&color=161B22)
+![TS Badge](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=3178C6&color=161B22)
 ![PHP Badge](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=777BB4&color=161B22)
 
 ![Docker Badge](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=2496ED&color=161B22)
