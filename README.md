@@ -57,7 +57,7 @@ It has 379 commits+ but the project is private, you can check bot only :(
 
 ## 💼 Skills
 
-![Django Badge](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=0D1117) ![Laravel Badge](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=0088cc) ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0088cc) ![PHP Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0088cc)
+![Django Badge](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=F3EFDE) ![Laravel Badge](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=0088cc) ![Python Badge](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0088cc) ![PHP Badge](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=0088cc)
 
 
 <!--
