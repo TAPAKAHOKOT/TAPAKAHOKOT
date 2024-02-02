@@ -64,8 +64,10 @@ It has 379 commits+ but the project is private, you can check bot only :(
 ![React Badge](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=161B22)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-informational?style=for-the-badge&logo=laravel&logoColor=FF2D20&color=161B22)
 
-![Python Badge](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=161B22)
-![PHP Badge](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=161B22)
+![Python Badge](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=3776AB&color=161B22)
+![PHP Badge](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=777BB4&color=161B22)
+
+![Docker Badge](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=docker&logoColor=2496ED&color=161B22)
 
 
 <!--
