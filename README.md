@@ -19,6 +19,7 @@ I'm Ivan, a Python developer, I really love to create and develop my personal pr
 ```text
 A new (in develop) project to improve the logistics of recycling collection.
 It uses django (for back) + vue3 (for front)
+(private repo)
 ```
 
 [Tapakahokot VPN bot](https://t.me/tapakahokot_vpn_bot)
@@ -26,6 +27,7 @@ It uses django (for back) + vue3 (for front)
 Telegram bot to sell VPN (Trojan based on Xray-core).
 It uses aiogram3 (for tg bot) + flask (for webapp) + custom tg bot template.
 It has 379 commits+ but the project is private, you can check bot only :(
+(private repo)
 ```
 
 <!-- Pinned Repositories -->
