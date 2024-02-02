@@ -58,6 +58,7 @@ It has 379 commits+ but the project is private, you can check bot only :(
 ## 💼 Skills
 
 ![Django Badge](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=092E20&color=161B22)
+![Aiogram Badge](https://img.shields.io/badge/Aiogram-informational?style=for-the-badge&color=161B22)
 ![Flask Badge](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=ffffff&color=161B22)
 ![Vue Badge](https://img.shields.io/badge/Vue-informational?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D&color=161B22)
 ![React Badge](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=161B22)
