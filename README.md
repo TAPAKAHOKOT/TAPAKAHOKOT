@@ -17,11 +17,11 @@ I'm Ivan, a Python developer, I really love to create and develop my personal pr
 
 ## 📽 About my favorite projects
 [Recycop](http://recycop.ru)
-```
-A new (in develop) project to improve the logistics of recycling collection.
-It uses django (for back) + vue3 (for front)
-(private repo)
-```
+
+>A new (in develop) project to improve the logistics of recycling collection.
+>It uses django (for back) + vue3 (for front)
+>(private repo)
+
 
 [Tapakahokot VPN bot](https://t.me/tapakahokot_vpn_bot)
 ```
