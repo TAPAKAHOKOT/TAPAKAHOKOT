@@ -46,17 +46,13 @@ It has 379 commits+ but the project is private, you can check bot only :(
 -->
 
 ## 📈 GitHub Stats
-<!-- GitHub Stats -->
-<a href="https://github.com/TAPAKAHOKOT">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapakahokot&hide=html,css,Tcl,Jupyter%20Notebook,PLSQL,Roff,PostScript,DTrace,Mako&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" />
-</a>
-<a href="https://github.com/TAPAKAHOKOT">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tapakahokot&show_icons=true&line_height=27&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" alt="Ivan's GitHub Stats" />
-</a>
+<div style="display: flex;">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapakahokot&hide=html,css,Tcl,Jupyter%20Notebook,PLSQL,Roff,PostScript,DTrace,Mako&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601&layout=compact"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=tapakahokot&show_icons=true&line_height=27&count_private=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=070601" alt="Ivan's GitHub Stats"/>
+</div>
 
 
 ## 💼 Skills
-
 ![Django Badge](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=092E20&color=161B22)
 ![Aiogram Badge](https://img.shields.io/badge/Aiogram-informational?style=for-the-badge&color=161B22)
 ![Flask Badge](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=ffffff&color=161B22)
@@ -70,19 +66,3 @@ It has 379 commits+ but the project is private, you can check bot only :(
 ![PHP Badge](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=php&logoColor=777BB4&color=161B22)
 
 ![Docker Badge](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=2496ED&color=161B22)
-
-
-<!--
-**TAPAKAHOKOT/TAPAKAHOKOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
