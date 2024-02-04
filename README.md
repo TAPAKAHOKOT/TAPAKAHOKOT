@@ -30,6 +30,11 @@ It uses aiogram3 (for tg bot) + flask (for webapp) + custom tg bot template.
 It has 379 commits+ but the project is private, you can check bot only :(
 (private repo)
 ```
+![All users Badge](https://tapakahokot-vpn-bot.ru/badges/users/count_all)
+
+https://tapakahokot-vpn-bot.ru/badges/users/count_all
+![Django Badge](https://tapakahokot-vpn-bot.ru/badges/users/count_active)
+
 
 <!-- Pinned Repositories -->
 <!--
