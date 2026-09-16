@@ -3,7 +3,7 @@
 <p>
   <a href="https://t.me/TAPAKAHOKOT"><img src="https://img.shields.io/badge/Telegram-@TAPAKAHOKOT-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://dicexdice.io"><img src="https://img.shields.io/badge/now_building-Dice×Dice-8B5CF6?style=flat-square" alt="Now building Dice×Dice"/></a>
-  <img src="https://komarev.com/ghpvc/?username=TAPAKAHOKOT&style=flat-square&color=555&label=profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=TAPAKAHOKOT&style=flat-square&color=blueviolet&label=profile+views" alt="Profile views"/>
 </p>
 
 ### Hi, I'm Ivan 👋
@@ -38,7 +38,7 @@ Everything behind a VPN service run solo for 4 years: 1300+ commits, ~45k lines 
 
 `TypeScript` `Node.js` `WebSocket` `PostgreSQL` `fast-check` `Playwright`
 
-### 💸 [Moapp](https://github.com/TAPAKAHOKOT/moapp) — shared expense tracker
+### 💸 [Moapp](https://moapp.tapakahokot.com) — shared expense tracker · [code](https://github.com/TAPAKAHOKOT/moapp)
 Passwordless workspaces, offline sync with idempotency & optimistic concurrency, built-in OAuth 2.1 + MCP endpoint for ChatGPT, AES-GCM-encrypted Bybit integration, SQLite continuously replicated to R2 with weekly restore checks.
 
 `Fastify` `SQLite` `Litestream` `OAuth 2.1` `MCP` `React`
