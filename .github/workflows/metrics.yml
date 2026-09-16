@@ -30,6 +30,7 @@ jobs:
           template: classic
           base: ""
           plugin_languages: yes
+          debug: yes
           plugin_languages_limit: 8
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css, scss, jupyter notebook, tcl, makefile, dockerfile, shell, jinja, hcl, procfile
