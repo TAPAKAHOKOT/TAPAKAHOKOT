@@ -19,7 +19,7 @@ jobs:
           debug: yes
           base: header, activity, community, repositories
           repositories_affiliations: owner, collaborator, organization_member
-          repositories_batch: 10
+          repositories_batch: 50
           config_timezone: Europe/Moscow
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
